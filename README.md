@@ -34,4 +34,4 @@ Launch Jupyter Notebook and open `Churn_Prediction.ipynb` to review and run the 
 
 For a detailed understanding of the project's objectives, data description, methodology, results, and conclusions, refer to the `Final Report - Churn Prediction.docx` file.
 
-For any questions or further information, please contact the repository owner.
+
